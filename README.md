@@ -36,7 +36,7 @@ We gathered and processed three key datasets:
 ## **Installation & Usage**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/environmental-impact.git
+   git clone https://github.com/avismassey23/environmental-impact.git
    ```
 2. Install dependencies:
    ```bash
